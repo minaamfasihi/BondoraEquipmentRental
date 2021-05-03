@@ -1,0 +1,12 @@
+D:\Projects\Others\C#\Bondora\Bondora\bin\Debug\Bondora.pdb
+D:\Projects\Others\C#\Bondora\Bondora\obj\Debug\Bondora.csproj.CoreCompileInputs.cache
+D:\Projects\Others\C#\Bondora\Bondora\obj\Debug\Bondora.pdb
+D:\Projects\Others\C#\Bondora\Bondora\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Others\C#\Bondora\Bondora\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Others\C#\Bondora\Bondora\obj\Debug\Bondora.csproj.CopyComplete
+D:\Projects\Others\C#\Bondora\Bondora\bin\Debug\log4net.dll
+D:\Projects\Others\C#\Bondora\Bondora\bin\Debug\log4net.xml
+D:\Projects\Others\C#\Bondora\Bondora\bin\Debug\Bondora.exe.config
+D:\Projects\Others\C#\Bondora\Bondora\bin\Debug\Bondora.exe
+D:\Projects\Others\C#\Bondora\Bondora\obj\Debug\Bondora.csprojAssemblyReference.cache
+D:\Projects\Others\C#\Bondora\Bondora\obj\Debug\Bondora.exe

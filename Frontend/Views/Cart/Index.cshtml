@@ -1,0 +1,27 @@
+﻿@model Frontend.Views.Models.CartIndexViewModel
+
+<h2>Your cart</h2>
+@using (Html.BeginForm("GenerateInvoice", "Cart"))
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Type</th>
+                <th>No. of days</th>
+            </tr>
+        </thead>
+        <tbody>
+
+            @foreach (var line in Model.cart.Items)
+            {
+            <tr>
+                <td class="text-left">@line.equipment.name</td>
+                <td style="float: left;">@line.equipment.type</td>
+                <td style="justify-content: left;">@line.days</td>
+            </tr>
+            }
+        </tbody>
+    </table>
+    <input type="submit" class="btn btn-success float-right" value="Generate Invoice" />
+}

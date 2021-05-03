@@ -1,0 +1,87 @@
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.dll
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.pdb
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.input.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.output.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorCoreGenerate.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cs
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.Views.pdb
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
+D:\Projects\Others\C#\Bondora Backend\ConstructionEquipmentRental\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Equipment\Index.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Frontend.exe
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Frontend.deps.json
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.json
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Frontend.runtimeconfig.dev.json
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Frontend.dll
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Frontend.pdb
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.dll
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Frontend.Views.pdb
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.csprojAssemblyReference.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfoInputs.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.AssemblyInfo.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorAssemblyInfo.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.input.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.TagHelpers.output.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorCoreGenerate.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Equipment\Index.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.RazorTargetAssemblyInfo.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.Views.pdb
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.Manifest.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\staticwebassets\Frontend.StaticWebAssets.xml
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.dll
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.pdb
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.genruntimeconfig.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CopyComplete
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Experimental.System.Messaging.dll
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Cart\Index.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Razor\Views\Cart\InvoiceGenerated.cshtml.g.cs
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\System.Web.Mvc.dll
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\System.Web.Razor.dll
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\System.Web.Helpers.dll
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\System.Web.WebPages.Deployment.dll
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\System.Web.WebPages.Razor.dll
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\System.Web.WebPages.dll
+D:\Projects\Others\C#\Bondora\Frontend\bin\Debug\netcoreapp3.1\Microsoft.Web.Infrastructure.dll
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.csproj.CoreCompileInputs.cache
+D:\Projects\Others\C#\Bondora\Frontend\obj\Debug\netcoreapp3.1\Frontend.MvcApplicationPartsAssemblyInfo.cache
